@@ -34,3 +34,8 @@ added to the button in the index html file as well.*/
 /*********************************************
  Write your css customizations below
  *********************************************/
+ .image.left {
+   float: left;
+   margin: 0 1.5em 2em 0;
+   top: 0.25em;
+ }
