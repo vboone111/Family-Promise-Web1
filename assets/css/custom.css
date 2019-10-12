@@ -39,3 +39,7 @@ added to the button in the index html file as well.*/
    margin: 0 1.5em 2em 0;
    top: 0.25em;
  }
+
+.clearfloat{
+  clear: both;
+}
