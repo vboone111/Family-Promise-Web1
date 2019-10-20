@@ -84,3 +84,9 @@ added to the button in the index html file as well.*/
 .post.style2.invert .content {
     background: rgb(141, 73, 130);
 }
+
+element.style {}
+  a {
+    color: rgb(141, 73, 130);
+    text-decoration: none;
+  }
